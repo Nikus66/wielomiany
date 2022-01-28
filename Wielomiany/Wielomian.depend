@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1642964998 source:f:\nikodem\wielomian\wielomian\src\wielomian.cpp
+	"Wielomian.h"
+	<iostream>
+
+1642966646 f:\nikodem\wielomian\wielomian\include\wielomian.h
+	<iostream>
+
+1642966210 source:f:\nikodem\wielomian\wielomian\main.cpp
+	<iostream>
+	"Wielomian.h"
+
+1642966958 source:c:\users\nikodem\desktop\wielomian\src\wielomian.cpp
+	"Wielomian.h"
+	<iostream>
+	<iomanip>
+
+1642966646 c:\users\nikodem\desktop\wielomian\include\wielomian.h
+	<iostream>
+
+1643046987 source:c:\users\nikodem\desktop\wielomian\main.cpp
+	<iostream>
+	"Wielomian.h"
+
+1643057415 source:c:\users\nikodem\desktop\wielomiany\main.cpp
+	<iostream>
+	"Wielomian.h"
+
+1643058739 c:\users\nikodem\desktop\wielomiany\include\wielomian.h
+	<iostream>
+
+1643058035 source:c:\users\nikodem\desktop\wielomiany\src\wielomian.cpp
+	"Wielomian.h"
+	<iostream>
+	<iomanip>
+
